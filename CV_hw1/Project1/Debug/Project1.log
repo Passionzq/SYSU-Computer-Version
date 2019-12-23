@@ -1,0 +1,5 @@
+﻿  ans.cpp
+c:\users\54603\documents\project\project1\project1\ans.cpp(65): warning C4244: “参数”: 从“double”转换到“const int”，可能丢失数据
+c:\users\54603\documents\project\project1\project1\ans.cpp(153): warning C4244: “初始化”: 从“double”转换到“int”，可能丢失数据
+c:\users\54603\documents\project\project1\project1\ans.cpp(154): warning C4244: “初始化”: 从“double”转换到“int”，可能丢失数据
+  Project1.vcxproj -> C:\Users\54603\Documents\Project\Project1\Debug\Project1.exe
